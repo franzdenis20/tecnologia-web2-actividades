@@ -1,0 +1,15 @@
+{
+  "name": "sas",
+  "version": "1.0.0",
+  "description": "actividad sas",
+  "main": "index.js",
+  "scripts": {
+    
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "author": "franz",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}

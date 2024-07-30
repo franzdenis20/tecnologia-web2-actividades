@@ -1,0 +1,2 @@
+Tipo de vivienda: Casa
+Estado de la vivienda: Desocupada para alquilar/vender

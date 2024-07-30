@@ -1,0 +1,12 @@
+Nombre: franz2
+Apellido: Choque2
+Carrera: gggg2
+Nombre: franz2
+Apellido: Choque2
+Carrera: gggg2
+Nombre: franz3
+Apellido: Choque3
+Carrera: gggg3
+Nombre: franz10
+Apellido: Choque10
+Carrera: Sistema10

@@ -1,0 +1,7 @@
+Material de construcción de las paredes: 1
+Paredes interiores con revoque: 1
+Material de construcción de los techos: 1
+Material de los pisos: 1
+Fuente del agua: 1
+Distribución del agua: 1
+Fuente de energía eléctrica: 1
